@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-infinea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "www/IPC-Infinea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/bradipcprint/msrcordovaplugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bradipcprint/msrcordovaplugin#readme"
+}
